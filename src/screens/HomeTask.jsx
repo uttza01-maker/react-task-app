@@ -47,6 +47,8 @@ export default function Home() {
  
         <h1 className="text-3xl font-bold text-gray-800">
           Task Application
+          <br/>
+          Digital Technology and innovation
         </h1>
  
         <input type="text" placeholder="Enter Secure Code"
